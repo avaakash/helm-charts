@@ -71,3 +71,4 @@ sed -i '' -e '/index\.docker\.io\/chaosnative:/d' -e '/^$/d' ${OUTPUT_DIR}/image
 exit 0
 
 echo "Test 1"
+echo "Test 2"
